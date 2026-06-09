@@ -1,6 +1,6 @@
 # Hi, I'm Amy 👋
 
-After 15+ years leading complex programs in mission-critical regulated environments, I'm focused on the design layer of AI products — the decisions that determine whether an AI tool earns trust or erodes it.
+After 15+ years leading complex programs in mission-critical regulated and unregulated environments, I'm focused on the design layer of AI products — the decisions that determine whether an AI tool earns trust or erodes it.
 
 ## What I'm working on
 
