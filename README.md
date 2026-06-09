@@ -4,7 +4,7 @@ After 15+ years leading complex programs in mission-critical regulated and unreg
 
 ## What I'm working on
 
-Building Claude Skills that encode design patterns for AI workflows in high-stakes contexts. The core question I keep coming back to: when an AI's actions have real consequences, what should it decide *not* to do, and when should it hand control back to a person?
+Building Claude Skills and Web Apps that encode design patterns for AI workflows in high-stakes contexts. The core question I keep coming back to: when an AI's actions have real consequences, what should it decide *not* to do, and when should it hand control back to a person?
 
 → See [ai-product-patterns](https://github.com/amyfrederick/ai-product-patterns) for the current Skills and the thinking behind them.
 
