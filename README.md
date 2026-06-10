@@ -25,6 +25,6 @@ All built with Claude as my coding partner, with me directing the product decisi
 
 ## Find me
 
-- LinkedIn: [https://www.linkedin.com/in/amy-frederick-pmp-pmi-acp-cssgb-itil-v3-0a995451/]
+- LinkedIn: [https://www.linkedin.com/in/amylfrederickaipm/]
 - Email: amyfrederick@verizon.net
 - Location: Madison, Wisconsin
